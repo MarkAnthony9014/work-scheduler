@@ -2,7 +2,7 @@
 
 ## Description/Acceptance Criteria
 
-![acceptancecritera](./Develop/images/challengecriteria5.JPG)
+![acceptancecritera](./assets/images/challengecriteria5.JPG)
 
 
 ## Plan of attack
@@ -19,7 +19,8 @@
 
 ## Screenshot of completed application
 
-![screenshotapp](./Develop/images/Work-Day-Scheduler-Screenshot.jpg)
+![screenshotapp](./assets/images/Work-Day-Scheduler-Screenshot.jpg)
 
 ### Deployed Github Pages Link
 
+https://markanthony9014.github.io/work-scheduler/
